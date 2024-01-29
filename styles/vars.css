@@ -1,0 +1,20 @@
+:root {
+    --light-blue: #22D4FD;
+    --bg-black: #000;
+    --text-white: #F6F6F6;
+    --bg-button-hover: #272727;
+
+    --title-font: "Krona One", sans-serif;
+    --text-font: "Montserrat", sans-serif;
+}
+
+/* :root {
+    --light-blue: #FF9BD2;
+    --bg-black: #402B3A;
+    --text-white: #F8F4EC;
+    --bg-button-hover: #D63484;
+
+    --title-font: "Krona One", sans-serif;
+    --text-font: "Montserrat", sans-serif;
+}
+ */
